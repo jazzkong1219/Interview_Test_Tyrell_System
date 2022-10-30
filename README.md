@@ -47,4 +47,5 @@ database/local_laravel.sql
 ## Total Time Spent
 
 A) Programming Test - 2 Hours
+
 B) SQL Improvement Logic Test - 4 Hours
